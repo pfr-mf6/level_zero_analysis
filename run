@@ -1,0 +1,7 @@
+#!/bin/bash
+
+source venv/bin/activate
+
+# TODO - add args here
+# args=""
+streamlit run 🏡_home_page.py

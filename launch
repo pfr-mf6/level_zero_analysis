@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source venv/bin/activate
+
+# export DEBUG=true
+streamlit run run_toolsite.py
